@@ -1,0 +1,1 @@
+import { IconProps } from "./iconProps";

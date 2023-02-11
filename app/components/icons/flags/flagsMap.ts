@@ -1,0 +1,23 @@
+export const flagsMap: {[key: string]: string} = {
+	'Australia': 'Australia',
+	'Austria': 'Austria',
+	'Azerbaijan': 'Azerbaijan',
+	'Bahrain': 'Bahrain',
+	'Belgium': 'Belgium',
+	'Brazil': 'Brazil',
+	'Canada': 'Canada',
+	'Hungary': 'Hungary',
+  'Italy': 'Italy',
+  'Japan': 'Japan',
+  'Mexico': 'Mexico',
+  'Monaco': 'Monaco',
+  'Netherlands': 'Netherlands',
+  'Qatar': 'Qatar',
+  'Saudi Arabia': 'SaudiArabia',
+  'Singapore': 'Singapore',
+  'Spain': 'Spain',
+  'UAE': 'UnitedArabEmirates',
+  'UK': 'UnitedKingdom',
+  'United States': 'UnitedStatesOfAmerica',
+	'USA': 'UnitedStatesOfAmerica'
+}

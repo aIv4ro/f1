@@ -1,0 +1,23 @@
+import { Bahrain } from "./icons/Bahrain";
+import { SaudiArabia } from "./icons/SaudiArabia";
+import { Australia } from "./icons/Australia";
+import { Azerbaijan } from "./icons/Azerbaijan";
+import { UnitedStatesOfAmerica } from "./icons/UnitedStatesOfAmerica";
+import { Italy } from "./icons/Italy";
+import { Monaco } from "./icons/Monaco";
+import { Spain } from "./icons/Spain";
+import { Canada } from "./icons/Canada";
+import { Austria } from "./icons/Austria";
+import { UnitedKingdom } from "./icons/UnitedKingdom";
+import { Hungary } from "./icons/Hungary";
+import { Belgium } from "./icons/Belgium";
+import { Netherlands } from "./icons/Netherlands";
+import { Singapore } from "./icons/Singapore";
+import { Japan } from "./icons/Japan";
+import { Qatar } from "./icons/Qatar";
+import { Mexico } from "./icons/Mexico";
+import { Brazil } from "./icons/Brazil";
+import { UnitedArabEmirates } from "./icons/UnitedArabEmirates";
+import { Unknown } from "./icons/Unknown";
+
+export { Bahrain, SaudiArabia, Australia, Azerbaijan, UnitedStatesOfAmerica, Italy, Monaco, Spain, Canada, Austria, UnitedArabEmirates, Hungary, UnitedKingdom, Belgium, Netherlands, Singapore, Japan, Qatar, Mexico, Brazil, Unknown };

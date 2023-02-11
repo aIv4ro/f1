@@ -1,5 +1,5 @@
 
-import { IconProps } from "./iconProps";
+import { IconProps } from "../types/iconProps";
 
 export function CanaryIslands(
   {className}: IconProps

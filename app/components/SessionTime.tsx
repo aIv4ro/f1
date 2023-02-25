@@ -1,3 +1,4 @@
+'use-client';
 const options = {
 	weekday: 'short',
 	hour: '2-digit',

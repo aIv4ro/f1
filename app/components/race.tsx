@@ -1,3 +1,4 @@
+'use-client';
 import { RaceI } from "types/race";
 import { FlagIcon } from "./icons/flags/flagIcon";
 

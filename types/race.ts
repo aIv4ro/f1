@@ -1,7 +1,7 @@
 import { Circuit } from './circuit';
 import { Session } from './session';
 
-export interface Race {
+export interface RaceI {
 	round: number;
 	name: string;
 	circuit: Circuit;

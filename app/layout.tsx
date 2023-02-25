@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head />
-      <body className={`${roboto.variable} font-sans text-white `}>
+      <body className={`${roboto.variable} font-sans text-white bg-base-100`}>
 				<Navbar />
 				<main className="min-h-[calc(100vh-var(--app-bar-height))] mt-[var(--app-bar-height)] p-2 bg-base-100">
 					{children}

@@ -1,4 +1,4 @@
-import { Race } from "../types/race";
+import { RaceI } from "../types/race";
 import { Schedule } from "../types/schedule";
 
 const currentScheduleUrl = 'https://ergast.com/api/f1/2023.json'
@@ -20,7 +20,7 @@ function mapSchedule(schedule: any): Schedule {
 	};
 }
 
-function mapScheduleRace(race: any): Race {
+function mapScheduleRace(race: any): RaceI {
 	const {
 		round, raceName,
 		Circuit: {circuitId: id, circuitName, Location: location},

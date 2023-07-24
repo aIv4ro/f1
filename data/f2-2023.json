@@ -1,0 +1,216 @@
+{
+  "races": [
+    {
+      "name": "Bahrain",
+      "location": "Sakhir",
+      "latitude": 26.037,
+      "longitude": 50.5112,
+      "round": 1,
+      "slug": "bahrain-grand-prix",
+      "key": "bahrain-grand-prix",
+      "sessions": {
+        "practice": "2023-03-03T09:05:00Z",
+        "qualifying": "2023-03-03T16:30:00Z",
+        "sprint": "2023-03-04T13:15:00Z",
+        "feature": "2023-03-05T10:20:00Z"
+      }
+    },
+    {
+      "name": "Saudi Arabian",
+      "location": "Jeddah",
+      "latitude": 21.485811,
+      "longitude": 39.192505,
+      "round": 2,
+      "slug": "saudi-arabia-grand-prix",
+      "key": "saudi-arabia-grand-prix",
+      "sessions": {
+        "practice": "2023-03-17T10:55:00Z",
+        "qualifying": "2023-03-17T15:00:00Z",
+        "sprint": "2023-03-18T15:10:00Z",
+        "feature": "2023-03-19T13:15:00Z"
+      }
+    },
+    {
+      "name": "Australian",
+      "location": "Melbourne",
+      "latitude": -37.8373,
+      "longitude": 144.9666,
+      "round": 3,
+      "slug": "australian-grand-prix",
+      "key": "australian-grand-prix",
+      "sessions": {
+        "practice": "2023-03-30T23:00:00Z",
+        "qualifying": "2023-03-31T06:30:00Z",
+        "sprint": "2023-04-01T03:20:00Z",
+        "feature": "2023-04-02T01:35:00Z"
+      }
+    },
+    {
+      "name": "Azerbaijan",
+      "location": "Baku",
+      "latitude": 40.3699,
+      "longitude": 49.8433,
+      "round": 4,
+      "slug": "azerbaijan-grand-prix",
+      "key": "azerbaijan-grand-prix",
+      "sessions": {
+        "practice": "2023-04-28T07:05:00Z",
+        "qualifying": "2023-04-28T11:10:00Z",
+        "sprint": "2023-04-29T11:00:00Z",
+        "feature": "2023-04-30T07:25:00Z"
+      }
+    },
+    {
+      "name": "Emilia Romagna",
+      "location": "Imola",
+      "latitude": 44.344576,
+      "longitude": 11.713808,
+      "round": 5,
+      "slug": "emilia-romagna-grand-prix",
+      "key": "emilia-romagna-grand-prix",
+      "canceled": true,
+      "sessions": {
+        "practice": "2023-05-19T09:05:00Z",
+        "qualifying": "2023-05-19T13:55:00Z",
+        "sprint": "2023-05-20T12:15:00Z",
+        "feature": "2023-05-21T08:10:00Z"
+      }
+    },
+    {
+      "name": "Monaco",
+      "location": "Monte Carlo",
+      "latitude": 43.7338,
+      "longitude": 7.4215,
+      "round": 6,
+      "slug": "monaco-grand-prix",
+      "key": "monaco-grand-prix",
+      "sessions": {
+        "practice": "2023-05-25T13:00:00Z",
+        "qualifying": "2023-05-26T13:10:00Z",
+        "sprint": "2023-05-27T12:15:00Z",
+        "feature": "2023-05-28T07:40:00Z"
+      }
+    },
+    {
+      "name": "Spanish",
+      "location": "Barcelona",
+      "latitude": 41.5638,
+      "longitude": 2.2585,
+      "round": 7,
+      "slug": "spanish-grand-prix",
+      "key": "spanish-grand-prix",
+      "sessions": {
+        "practice": "2023-06-02T09:05:00Z",
+        "qualifying": "2023-06-02T13:55:00Z",
+        "sprint": "2023-06-03T12:15:00Z",
+        "feature": "2023-06-04T09:25:00Z"
+      }
+    },
+    {
+      "name": "Austrian",
+      "location": "Spielberg",
+      "latitude": 47.2225,
+      "longitude": 14.7607,
+      "round": 8,
+      "slug": "austrian-grand-prix",
+      "key": "austrian-grand-prix",
+      "sessions": {
+        "practice": "2023-06-30T09:05:00Z",
+        "qualifying": "2023-06-30T13:55:00Z",
+        "sprint": "2023-07-01T11:45:00Z",
+        "feature": "2023-07-02T07:55:00Z"
+      }
+    },
+    {
+      "name": "British",
+      "location": "Silverstone",
+      "latitude": 52.0706,
+      "longitude": -1.0174,
+      "round": 9,
+      "slug": "british-grand-prix",
+      "key": "british-grand-prix",
+      "tbc": true,
+      "sessions": {
+        "practice": "2023-07-07T09:05:00Z",
+        "qualifying": "2023-07-07T14:05:00Z",
+        "sprint": "2023-07-08T12:15:00Z",
+        "feature": "2023-07-09T08:55:00Z"
+      }
+    },
+    {
+      "name": "Hungarian",
+      "location": "Budapest",
+      "latitude": 47.583,
+      "longitude": 19.2526,
+      "round": 10,
+      "slug": "hungarian-grand-prix",
+      "key": "hungarian-grand-prix",
+      "sessions": {
+        "practice": "2023-07-21T09:05:00Z",
+        "qualifying": "2023-07-21T14:00:00Z",
+        "sprint": "2023-07-22T12:15:00Z",
+        "feature": "2023-07-23T08:05:00Z"
+      }
+    },
+    {
+      "name": "Belgian",
+      "location": "Spa-Francorchamps",
+      "latitude": 50.444,
+      "longitude": 5.9687,
+      "round": 11,
+      "slug": "belgian-grand-prix",
+      "key": "belgian-grand-prix",
+      "sessions": {
+        "practice": "2023-07-28T09:05:00Z",
+        "qualifying": "2023-07-28T13:55:00Z",
+        "sprint": "2023-07-29T11:45:00Z",
+        "feature": "2023-07-30T08:00:00Z"
+      }
+    },
+    {
+      "name": "Dutch",
+      "location": "Zandvoort",
+      "latitude": 52.388408,
+      "longitude": 4.547122,
+      "round": 12,
+      "slug": "dutch-grand-prix",
+      "key": "dutch-grand-prix",
+      "sessions": {
+        "practice": "2023-08-25T09:55:00Z",
+        "qualifying": "2023-08-25T13:55:00Z",
+        "sprint": "2023-08-26T08:35:00Z",
+        "feature": "2023-08-27T08:40:00Z"
+      }
+    },
+    {
+      "name": "Italian",
+      "location": "Monza",
+      "latitude": 45.6169,
+      "longitude": 9.2825,
+      "round": 13,
+      "slug": "italian-grand-prix",
+      "key": "italian-grand-prix",
+      "sessions": {
+        "practice": "2023-09-01T09:55:00Z",
+        "qualifying": "2023-09-01T13:55:00Z",
+        "sprint": "2023-09-02T08:35:00Z",
+        "feature": "2023-09-03T08:40:00Z"
+      }
+    },
+    {
+      "name": "Abu Dhabi",
+      "location": "Yas Marina",
+      "latitude": 24.4821,
+      "longitude": 54.3482,
+      "round": 14,
+      "slug": "abu-dhabi",
+      "key": "abu-dhabi",
+      "sessions": {
+        "practice": "2023-11-24T07:55:00Z",
+        "qualifying": "2023-11-24T11:55:00Z",
+        "sprint": "2023-11-25T06:35:00Z",
+        "feature": "2023-11-26T06:40:00Z"
+      }
+    }
+  ]
+}

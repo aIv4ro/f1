@@ -7,7 +7,7 @@
       "longitude": 50.5112,
       "round": 1,
       "slug": "bahrain-grand-prix",
-      "localeKey": "bahrain-grand-prix",
+      "key": "bahrain-grand-prix",
       "sessions": {
         "fp1": "2024-02-29T11:30:00Z",
         "fp2": "2024-02-29T15:00:00Z",
@@ -23,7 +23,7 @@
       "longitude": 39.192505,
       "round": 2,
       "slug": "saudi-arabia-grand-prix",
-      "localeKey": "saudi-arabia-grand-prix",
+      "key": "saudi-arabia-grand-prix",
       "sessions": {
         "fp1": "2024-03-07T13:30:00Z",
         "fp2": "2024-03-07T17:00:00Z",
@@ -39,7 +39,7 @@
       "longitude": 144.9666,
       "round": 3,
       "slug": "australian-grand-prix",
-      "localeKey": "australian-grand-prix",
+      "key": "australian-grand-prix",
       "sessions": {
         "fp1": "2024-03-22T01:30:00Z",
         "fp2": "2024-03-22T05:00:00Z",
@@ -55,7 +55,7 @@
       "longitude": 138.9256,
       "round": 18,
       "slug": "japanese-grand-prix",
-      "localeKey": "japanese-grand-prix",
+      "key": "japanese-grand-prix",
       "sessions": {
         "fp1": "2024-04-05T02:30:00Z",
         "fp2": "2024-04-05T06:00:00Z",
@@ -71,7 +71,7 @@
       "longitude": 121.2498,
       "round": 3,
       "slug": "chinese-grand-prix",
-      "localeKey": "chinese-grand-prix",
+      "key": "chinese-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1" : "2024-04-19T02:00:00Z",
@@ -88,7 +88,7 @@
       "longitude": -80.238835,
       "round": 6,
       "slug": "miami-grand-prix",
-      "localeKey": "miami-grand-prix",
+      "key": "miami-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1": "2024-05-03T18:00:00Z",
@@ -105,7 +105,7 @@
       "longitude": 11.713808,
       "round": 4,
       "slug": "emilia-romagna-grand-prix",
-      "localeKey": "emilia-romagna-grand-prix",
+      "key": "emilia-romagna-grand-prix",
       "sessions": {
         "fp1": "2024-05-17T11:30:00Z",
         "fp2": "2024-05-17T15:00:00Z",
@@ -121,7 +121,7 @@
       "longitude": 7.4215,
       "round": 8,
       "slug": "monaco-grand-prix",
-      "localeKey": "monaco-grand-prix",
+      "key": "monaco-grand-prix",
       "sessions": {
         "fp1": "2024-05-24T11:30:00Z",
         "fp2": "2024-05-24T15:00:00Z",
@@ -137,7 +137,7 @@
       "longitude": -73.5267,
       "round": 10,
       "slug": "canadian-grand-prix",
-      "localeKey": "canadian-grand-prix",
+      "key": "canadian-grand-prix",
       "sessions": {
         "fp1": "2024-06-07T17:30:00Z",
         "fp2": "2024-06-07T21:00:00Z",
@@ -153,7 +153,7 @@
       "longitude": 2.2585,
       "round": 9,
       "slug": "spanish-grand-prix",
-      "localeKey": "spanish-grand-prix",
+      "key": "spanish-grand-prix",
       "sessions": {
         "fp1": "2024-06-21T11:30:00Z",
         "fp2": "2024-06-21T15:00:00Z",
@@ -169,7 +169,7 @@
       "longitude": 14.7607,
       "round": 11,
       "slug": "austrian-grand-prix",
-      "localeKey": "austrian-grand-prix",
+      "key": "austrian-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1": "2024-06-28T11:30:00Z",
@@ -186,7 +186,7 @@
       "longitude": -1.0174,
       "round": 12,
       "slug": "british-grand-prix",
-      "localeKey": "british-grand-prix",
+      "key": "british-grand-prix",
       "sessions": {
         "fp1": "2024-07-05T11:30:00Z",
         "fp2": "2024-07-05T15:00:00Z",
@@ -202,7 +202,7 @@
       "longitude": 19.2526,
       "round": 13,
       "slug": "hungarian-grand-prix",
-      "localeKey": "hungarian-grand-prix",
+      "key": "hungarian-grand-prix",
       "sessions": {
         "fp1": "2024-07-19T11:30:00Z",
         "fp2": "2024-07-19T15:00:00Z",
@@ -218,7 +218,7 @@
       "longitude": 5.9687,
       "round": 14,
       "slug": "belgian-grand-prix",
-      "localeKey": "belgian-grand-prix",
+      "key": "belgian-grand-prix",
       "sessions": {
         "fp1": "2024-07-26T11:30:00Z",
         "fp2": "2024-07-26T15:00:00Z",
@@ -234,7 +234,7 @@
       "longitude": 4.547122,
       "round": 15,
       "slug": "dutch-grand-prix",
-      "localeKey": "dutch-grand-prix",
+      "key": "dutch-grand-prix",
       "sessions": {
         "fp1": "2024-08-23T10:30:00Z",
         "fp2": "2024-08-23T14:00:00Z",
@@ -250,7 +250,7 @@
       "longitude": 9.2825,
       "round": 16,
       "slug": "italian-grand-prix",
-      "localeKey": "italian-grand-prix",
+      "key": "italian-grand-prix",
       "sessions": {
         "fp1": "2024-08-30T11:30:00Z",
         "fp2": "2024-08-30T15:00:00Z",
@@ -266,7 +266,7 @@
       "longitude": 49.8433,
       "round": 5,
       "slug": "azerbaijan-grand-prix",
-      "localeKey": "azerbaijan-grand-prix",
+      "key": "azerbaijan-grand-prix",
       "sessions": {
         "fp1": "2024-09-13T09:30:00Z",
         "fp2": "2024-09-13T13:00:00Z",
@@ -282,7 +282,7 @@
       "longitude": 103.8575,
       "round": 17,
       "slug": "singapore-grand-prix",
-      "localeKey": "singapore-grand-prix",
+      "key": "singapore-grand-prix",
       "sessions": {
         "fp1": "2024-09-20T09:30:00Z",
         "fp2": "2024-09-20T13:00:00Z",
@@ -298,7 +298,7 @@
       "longitude": -97.6411,
       "round": 20,
       "slug": "us-grand-prix",
-      "localeKey": "us-grand-prix",
+      "key": "us-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1": "2024-10-18T17:30:00Z",
@@ -315,7 +315,7 @@
       "longitude": -99.0986,
       "round": 21,
       "slug": "mexican-grand-prix",
-      "localeKey": "mexico-grand-prix",
+      "key": "mexico-grand-prix",
       "sessions": {
         "fp1": "2024-10-25T18:30:00Z",
         "fp2": "2024-10-25T22:00:00Z",
@@ -331,7 +331,7 @@
       "longitude": -46.6969,
       "round": 22,
       "slug": "brazilian-grand-prix",
-      "localeKey": "brazilian-grand-prix",
+      "key": "brazilian-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1": "2024-11-01T14:30:00Z",
@@ -348,7 +348,7 @@
       "longitude": -115.148708,
       "round": 23,
       "slug": "las-vegas-grand-prix",
-      "localeKey": "las-vegas-grand-prix",
+      "key": "las-vegas-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1": "2024-11-21T04:30:00Z",
@@ -365,7 +365,7 @@
       "longitude": 51.45303,
       "round": 19,
       "slug": "qatar-grand-prix",
-      "localeKey": "qatar-grand-prix",
+      "key": "qatar-grand-prix",
       "tbc": true,
       "sessions": {
         "fp1": "2024-11-29T13:30:00Z",
@@ -382,7 +382,7 @@
       "longitude": 54.3482,
       "round": 24,
       "slug": "abu-dhabi-grand-prix",
-      "localeKey": "abu-dhabi-grand-prix",
+      "key": "abu-dhabi-grand-prix",
       "sessions": {
         "fp1": "2024-12-06T09:30:00Z",
         "fp2": "2024-12-06T13:00:00Z",
